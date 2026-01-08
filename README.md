@@ -33,7 +33,7 @@ The system leverages:
 * Legal documents are split into **meaningful sections**
 * Each section is embedded and stored in a **FAISS vector database**
 * This improves **retrieval accuracy** and avoids irrelevant context
-
+      
 ---
 
 ### 🧠 3. Retrieval-Augmented Generation (RAG)
